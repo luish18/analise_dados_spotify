@@ -1,1 +1,5 @@
 .venv
+notebooks/.jukit
+.DS_Store
+notebooks/analise.py
+.jukit
